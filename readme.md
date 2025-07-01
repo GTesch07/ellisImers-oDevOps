@@ -23,11 +23,15 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
      ```sh
      source venv/bin/activate
      ```
+<<<<<<< HEAD
    - No Windows, abra um terminal no modo administrador e execute o comando:
    ```sh
    Set-ExecutionPolicy RemoteSigned
    ```
 
+=======
+   - No Windows:
+>>>>>>> d989eba (Atualizando repositório com Dockerfile configurado como na primeira aula da imersão.)
      ```sh
      venv\Scripts\activate
      ```
